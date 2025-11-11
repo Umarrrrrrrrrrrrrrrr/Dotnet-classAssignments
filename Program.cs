@@ -35,6 +35,9 @@ class Program
 
         NumberConversion obj6 = new NumberConversion();
         obj6.ConvertIntoInteger();
+
+        PasswordChecks obj7 = new PasswordChecks();
+        obj7.ValidatePassword();
     }
 
 }
