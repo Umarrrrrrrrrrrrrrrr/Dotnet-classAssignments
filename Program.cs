@@ -20,6 +20,9 @@ class Program
 
         AgeCategory obj = new AgeCategory();
         obj.CheckAge();
+
+        DayofWeek obj2 = new DayofWeek();
+        obj2.ShowDay();
     }
 
 }
