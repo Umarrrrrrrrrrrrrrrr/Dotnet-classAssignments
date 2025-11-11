@@ -1,0 +1,14 @@
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\bin\Debug\net9.0\class_workshop.exe
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\bin\Debug\net9.0\class_workshop.deps.json
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\bin\Debug\net9.0\class_workshop.runtimeconfig.json
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\bin\Debug\net9.0\class_workshop.dll
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\bin\Debug\net9.0\class_workshop.pdb
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.AssemblyInfoInputs.cache
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.AssemblyInfo.cs
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.csproj.CoreCompileInputs.cache
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.dll
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\refint\class_workshop.dll
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.pdb
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.genruntimeconfig.cache
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\ref\class_workshop.dll
