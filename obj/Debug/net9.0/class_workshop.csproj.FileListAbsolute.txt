@@ -12,3 +12,4 @@ D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop
 D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.pdb
 D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.genruntimeconfig.cache
 D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\ref\class_workshop.dll
+D:\College stuffs\Application Development - Dotnet\class workshop\class_workshop\obj\Debug\net9.0\class_workshop.sourcelink.json

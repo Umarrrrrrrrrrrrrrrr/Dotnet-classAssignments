@@ -16,8 +16,12 @@ using System;
  
             //Null-coalescing Assignment Operator
             username ??= "DefaultUser";
-        Console.WriteLine($"Updated username : {username} ");
-            // return username
+        Console.WriteLine($"Updated username : {username} ");         // return username
+        Console.WriteLine($"Updated username: {username}");
+           
+
+
+
         }
     }
 // }
