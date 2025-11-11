@@ -32,6 +32,9 @@ class Program
 
         SumArray obj5 = new SumArray();
         obj5.CalculateSumArray();
+
+        NumberConversion obj6 = new NumberConversion();
+        obj6.ConvertIntoInteger();
     }
 
 }
