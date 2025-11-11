@@ -23,6 +23,9 @@ class Program
 
         DayofWeek obj2 = new DayofWeek();
         obj2.ShowDay();
+
+        SumUsingFor obj3 = new SumUsingFor();
+        obj3.CalculateSum();
     }
 
 }
