@@ -29,6 +29,9 @@ class Program
 
         SumUsingWhile obj4 = new SumUsingWhile();
         obj4.PrintNumber();
+
+        SumArray obj5 = new SumArray();
+        obj5.CalculateSumArray();
     }
 
 }
